@@ -382,5 +382,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xf5581dfefd8fb0e4aec526be659cfab1f8c781da.png"
+    },
+    {
+      "name": "Own a fraction",
+      "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
+      "symbol": "FRACTION",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://fraction.fyi/i/FRACTION-TokenIcon-Honeyswap-200x200.png"
   }
 ]
